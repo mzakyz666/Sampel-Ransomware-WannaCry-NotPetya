@@ -1,0 +1,1 @@
+# Sampel-Ransomware-WannaCry-NotPetya
