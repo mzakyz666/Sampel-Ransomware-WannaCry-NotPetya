@@ -1,1 +1,2 @@
-# Sampel-Ransomware-WannaCry-NotPetya
+# Sampel Ransomware - WannaCry & NotPetya
+Zip password: infected
